@@ -9,5 +9,5 @@ Where you can find me:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,bootstrap,react,vue,nuxt,astro,vscode,electron,netlify,linux,docker)](https://skillicons.dev)
 
 ## Contributions 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SK-Digital)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SK-Digital&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
